@@ -1,13 +1,13 @@
 # Certs:
 
-<center>
+<p align="center">
 
-![ACE](/ACE.png)
-![CGP_1](/GCP_1.png)
-![GCP_2](/GCP_2.png)
-![MatLab_1](/MatLab_1.png)
-![MatLab_2](/MatLab_2.png)
-![ISOF](/ISOF.jpg)
+<img src="ACE.png" alt="ACE"/>
+<img src="GCP_1.png" alt="GCP_1"/>
+<img src="GCP_2.png" alt="GCP_2"/>
+<img src="MatLab_1.png" alt="MatLab_1"/>
+<img src="MatLab_2.png" alt="MatLab_2"/>
+<img src="ISOF.jpg" alt="ISOF"/>
 
-</center>
+</p>
 
